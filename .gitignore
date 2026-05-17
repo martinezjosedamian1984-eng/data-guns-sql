@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+guns_n_roses_spotify_dataset.csv
